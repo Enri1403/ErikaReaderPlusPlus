@@ -1,7 +1,7 @@
 {
-  "name": "Test",
-  "short_name": "Test",
-  "start_url": "webapp.html",
+  "name": "ErikaReaderPlusPlus",
+  "short_name": "ErikaReader++",
+  "start_url": "ErikaReaderPlusPlus.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
